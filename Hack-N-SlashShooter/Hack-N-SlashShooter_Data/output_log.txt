@@ -7,44 +7,36 @@ Direct3D:
     VRAM:     4041 MB
     Driver:   22.21.13.8205
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Noah\Desktop\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Noah\Desktop\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Noah\Desktop\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Noah\Desktop\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Noah\Desktop\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Noah\Desktop\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Noah\Desktop\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Noah\Desktop\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\Noah\Desktop\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading C:\Users\Noah\Desktop\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.025 seconds
-Platform assembly: C:\Users\Noah\Desktop\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Noah\Desktop\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.048 seconds
+Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 2966x900 at 0,-130
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.406067 ms
-NullReferenceException: Object reference not set to an instance of an object
-  at SetUpZombie.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
+UnloadTime: 1.393690 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.058905 ms
 
-NullReferenceException: Object reference not set to an instance of an object
-  at SetUpZombie.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 347.
+Total: 0.388494 ms (FindLiveObjects: 0.035619 ms CreateObjectMapping: 0.024148 ms MarkObjects: 0.306992 ms  DeleteObjects: 0.020526 ms)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at SetUpZombie.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.335669 ms
 
-NullReferenceException: Object reference not set to an instance of an object
-  at SetUpZombie.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 263.
+Total: 0.264731 ms (FindLiveObjects: 0.022941 ms CreateObjectMapping: 0.012678 ms MarkObjects: 0.153948 ms  DeleteObjects: 0.074861 ms)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: e0 -> priority: 1 
-  Thread -> id: 26bc -> priority: 1 
+  Thread -> id: 28b8 -> priority: 1 
+  Thread -> id: 105c -> priority: 1 
