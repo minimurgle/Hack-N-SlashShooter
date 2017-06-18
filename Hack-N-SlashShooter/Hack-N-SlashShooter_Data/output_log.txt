@@ -7,36 +7,74 @@ Direct3D:
     VRAM:     4041 MB
     Driver:   22.21.13.8205
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.048 seconds
-Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.017 seconds
+Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Noah\Desktop\Build\Hack-N-SlashShooter\Hack-N-SlashShooter_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 2966x900 at 0,-130
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.393690 ms
+UnloadTime: 1.373464 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.058905 ms
+UnloadTime: 5.268971 ms
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 347.
-Total: 0.388494 ms (FindLiveObjects: 0.035619 ms CreateObjectMapping: 0.024148 ms MarkObjects: 0.306992 ms  DeleteObjects: 0.020526 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 435.
+Total: 0.254166 ms (FindLiveObjects: 0.026865 ms CreateObjectMapping: 0.012979 ms MarkObjects: 0.201642 ms  DeleteObjects: 0.012074 ms)
 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.335669 ms
+NEED AMMO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 263.
-Total: 0.264731 ms (FindLiveObjects: 0.022941 ms CreateObjectMapping: 0.012678 ms MarkObjects: 0.153948 ms  DeleteObjects: 0.074861 ms)
+NEED AMMO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+READY TO SHOOT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NEED AMMO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+READY TO SHOOT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+READY TO SHOOT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NEED AMMO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NEED AMMO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+READY TO SHOOT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+READY TO SHOOT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NEED AMMO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 28b8 -> priority: 1 
-  Thread -> id: 105c -> priority: 1 
+  Thread -> id: 21c4 -> priority: 1 
+  Thread -> id: 1c60 -> priority: 1 
